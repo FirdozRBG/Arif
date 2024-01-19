@@ -5,4 +5,9 @@ public class prcticeclass
 	   {
 		   System.out.println("Arif");
 	   }
+
+	public void test1()
+		{
+			
+		}
   }
